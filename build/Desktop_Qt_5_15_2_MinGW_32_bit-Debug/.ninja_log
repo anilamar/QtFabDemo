@@ -1,0 +1,19 @@
+# ninja log v6
+184	1278	7645437835474340	FABDemo_autogen/timestamp	82c7ffa1d431d74c
+913	5266	7645432415471609	CMakeFiles/FABDemo.dir/main.cpp.obj	98b6e6dad5c936fd
+184	1278	7645437835474340	FABDemo_autogen/mocs_compilation.cpp	82c7ffa1d431d74c
+184	1278	7645437835474340	E:/Qt Projects/FABDemo/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/FABDemo_autogen/timestamp	82c7ffa1d431d74c
+906	4931	7645432415471609	CMakeFiles/FABDemo.dir/FABDemo_autogen/mocs_compilation.cpp.obj	2b111b30686f5d8b
+184	1278	7645437835474340	E:/Qt Projects/FABDemo/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/FABDemo_autogen/mocs_compilation.cpp	82c7ffa1d431d74c
+92	116	7645419176937128	clean	738677856518eeed
+1279	8696	7645437846422587	CMakeFiles/FABDemo.dir/mainwindow.cpp.obj	f4957947ec4baae7
+8696	9944	7645437920583966	FABDemo.exe	e38e8ab6a19b3fb7
+8	92	7645419176101817	CMakeFiles/clean.additional	edf0f6ebd25b3cfe
+415	3789	7645432637667522	CMakeFiles/FABDemo.dir/FloatingActionButton.cpp.obj	a18ad4f70d005394
+938	4952	7645432415790873	CMakeFiles/FABDemo.dir/ChatWindow.cpp.obj	480ee0e7cc9b5416
+54	371	7645438135641786	FABDemo_autogen/timestamp	82c7ffa1d431d74c
+54	371	7645438135641786	FABDemo_autogen/mocs_compilation.cpp	82c7ffa1d431d74c
+54	371	7645438135641786	E:/Qt Projects/FABDemo/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/FABDemo_autogen/timestamp	82c7ffa1d431d74c
+54	371	7645438135641786	E:/Qt Projects/FABDemo/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/FABDemo_autogen/mocs_compilation.cpp	82c7ffa1d431d74c
+373	4005	7645438138844442	CMakeFiles/FABDemo.dir/mainwindow.cpp.obj	f4957947ec4baae7
+4005	4673	7645438175177803	FABDemo.exe	e38e8ab6a19b3fb7
